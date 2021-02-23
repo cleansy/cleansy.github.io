@@ -1,8 +1,3 @@
-# Cleansy Photos
-Remove old photos quickly
-
-https://apps.apple.com/app/cleansy-photos/id1551533116
-
 # Privacy Policy
 
 Last updated: January 31, 2021
