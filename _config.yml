@@ -1,6 +1,7 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-midnight
 title: Cleansy Photos
 description: Remove old photos quickly
+show_downloads: false
 author: Roman Kartsev
 plugins:
   - jekyll-seo-tag
