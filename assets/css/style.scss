@@ -5,5 +5,9 @@
 
 #header,
 .credits {
-  display: none;
+  display: none !important;
+}
+
+#title hr {
+  display: none !important;
 }
